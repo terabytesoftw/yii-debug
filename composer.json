@@ -42,7 +42,7 @@
         "yiisoft/log": "^3.0@dev",
         "yiisoft/cache": "^3.0@dev",
         "yiisoft/composer-config-plugin": "^1.0@dev",
-        "nyholm/psr7": "^1.0",
+        "nyholm/psr7": "^1.3",
         "yiisoft/event-dispatcher": "^3.0@dev"
     },
     "autoload": {
